@@ -4,6 +4,7 @@
 	
 
 机器之腿是源于机器之心内部 Hackathon 之后产品化的成果，可以基于微信历史文章与相应的流量数据、分析统计出热点词汇。
+![SyncedLeg WordCloud](https://i1.wp.com/syncedreview.com/wp-content/uploads/2019/03/wordcloud9.png "SyncedLeg WordCloud")
 
 # Get Started
 
