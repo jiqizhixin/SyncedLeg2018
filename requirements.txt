@@ -4,7 +4,7 @@ fuzzywuzzy==0.17.0
 googletrans==2.3.0
 idna==2.7
 jieba==0.39
-numpy==1.15.1
+numpy==1.22.0
 pandas==0.23.4
 python-dateutil==2.7.3
 pytz==2018.5
